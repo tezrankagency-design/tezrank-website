@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Digital Marketing Services - TezRank Agency</title>
+
+<meta name="description" content="Grow your business with professional digital marketing services by TezRank Agency including social media marketing, ads and branding.">
+
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-black text-white">
+
+<!-- NAVBAR -->
+<nav class="flex justify-between p-6 bg-black">
+  <h1 class="text-green-500 font-bold">TezRank</h1>
+  <div class="space-x-4">
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="text-center py-16">
+  <h1 class="text-4xl font-bold">Digital Marketing Services</h1>
+  <p class="mt-4">We help you grow your brand, reach more customers and increase sales</p>
+</section>
+
+<!-- CONTENT -->
+<section class="px-6 pb-20 max-w-3xl mx-auto">
+
+  <h2 class="text-2xl font-bold">What We Do</h2>
+
+  <ul class="mt-4 space-y-2 list-disc list-inside">
+    <li>Social Media Marketing (Facebook, Instagram)</li>
+    <li>Google Ads Campaigns</li>
+    <li>Brand Awareness Strategy</li>
+    <li>Content Marketing</li>
+    <li>Lead Generation Funnels</li>
+  </ul>
+
+  <h2 class="text-2xl font-bold mt-10">Why Digital Marketing?</h2>
+
+  <p class="mt-4 text-gray-300">
+    Digital marketing helps your business reach targeted customers online and increase sales faster than traditional methods.
+  </p>
+
+  <!-- FEATURES -->
+  <div class="grid md:grid-cols-2 gap-6 mt-8">
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      📈 Increase Sales
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      🎯 Targeted Audience
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      💰 High ROI Campaigns
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      🚀 Fast Growth Strategy
+    </div>
+
+  </div>
+
+  <!-- CTA -->
+  <a href="contact.html" class="mt-10 inline-block bg-green-600 px-6 py-3 rounded-full">
+    Start Marketing Now
+  </a>
+
+</section>
+
+</body>
+</html>
