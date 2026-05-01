@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Web Development Services - TezRank Agency</title>
+
+<meta name="description" content="Professional website development services by TezRank Agency. We build fast, responsive and SEO optimized websites.">
+
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-black text-white">
+
+<!-- NAVBAR -->
+<nav class="flex justify-between p-6 bg-black">
+  <h1 class="text-green-500 font-bold">TezRank</h1>
+  <div class="space-x-4">
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="text-center py-16">
+  <h1 class="text-4xl font-bold">Web Development Services</h1>
+  <p class="mt-4">We build fast, modern & responsive websites that convert visitors into clients</p>
+</section>
+
+<!-- CONTENT -->
+<section class="px-6 pb-20 max-w-3xl mx-auto">
+
+  <h2 class="text-2xl font-bold">What We Build</h2>
+
+  <ul class="mt-4 space-y-2 list-disc list-inside">
+    <li>Business Websites</li>
+    <li>Landing Pages</li>
+    <li>Portfolio Websites</li>
+    <li>E-commerce Websites</li>
+    <li>Agency Websites</li>
+  </ul>
+
+  <h2 class="text-2xl font-bold mt-10">Why Choose Us?</h2>
+
+  <p class="mt-4 text-gray-300">
+    We focus on performance, SEO optimization and modern design. Our websites are built to load fast and rank on Google.
+  </p>
+
+  <!-- FEATURES -->
+  <div class="grid md:grid-cols-2 gap-6 mt-8">
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      ⚡ Fast Loading Websites
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      📱 Mobile Responsive Design
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      🔍 SEO Optimized Structure
+    </div>
+
+    <div class="bg-gray-900 p-6 rounded-xl">
+      💰 Affordable Pricing
+    </div>
+
+  </div>
+
+  <!-- CTA -->
+  <a href="contact.html" class="mt-10 inline-block bg-green-600 px-6 py-3 rounded-full">
+    Get Your Website
+  </a>
+
+</section>
+
+</body>
+</html>
