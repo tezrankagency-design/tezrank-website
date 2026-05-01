@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>TezRank Agency - Grow Your Business</title>
+<meta name="description" content="TezRank Agency provides SEO, digital marketing, web development and mentorship services.">
+
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-black text-white">
+
+<!-- NAVBAR -->
+<nav class="flex justify-between p-6 bg-black">
+  <h1 class="text-green-500 font-bold">TezRank</h1>
+  <div class="space-x-4">
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="text-center py-20">
+  <h1 class="text-5xl font-bold">Grow Your Business with TezRank Agency</h1>
+  <p class="mt-4">SEO | Marketing | Web Development | Mentorship</p>
+</section>
+
+<!-- SERVICES -->
+<section class="py-16 text-center">
+  <h2 class="text-3xl mb-10">Our Services</h2>
+
+  <div class="grid md:grid-cols-4 gap-6">
+
+    <a href="seo-services.html" class="bg-gray-900 p-6 rounded-xl">SEO Services</a>
+    <a href="digital-marketing.html" class="bg-gray-900 p-6 rounded-xl">Marketing</a>
+    <a href="web-development.html" class="bg-gray-900 p-6 rounded-xl">Web Dev</a>
+    <a href="mentorship.html" class="bg-gray-900 p-6 rounded-xl">Mentorship</a>
+
+  </div>
+</section>
+
+</body>
+</html>
