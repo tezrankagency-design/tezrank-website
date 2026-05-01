@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About Us - TezRank Agency</title>
+
+<meta name="description" content="Learn about TezRank Agency - a digital marketing agency offering SEO, web development, marketing and mentorship services.">
+
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-black text-white">
+
+<!-- NAVBAR -->
+<nav class="flex justify-between p-6 bg-black">
+  <h1 class="text-green-500 font-bold">TezRank</h1>
+  <div class="space-x-4">
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="text-center py-16">
+  <h1 class="text-4xl font-bold">About TezRank Agency</h1>
+  <p class="mt-4">We help businesses grow online with smart digital strategies</p>
+</section>
+
+<!-- CONTENT -->
+<section class="px-6 pb-20 max-w-3xl mx-auto">
+
+  <h2 class="text-2xl font-bold">Who We Are</h2>
+
+  <p class="mt-4 text-gray-300">
+    TezRank Agency is a digital growth agency that specializes in SEO, web development, digital marketing, and mentorship programs. Our goal is to help businesses and individuals grow online.
+  </p>
+
+  <h2 class="text-2xl font-bold mt-10">Our Mission</h2>
+
+  <p class="mt-4 text-gray-300">
+    We aim to provide affordable and high-quality digital solutions that help businesses rank on Google and generate real clients.
+  </p>
+
+  <h2 class="text-2xl font-bold mt-10">Why Choose Us?</h2>
+
+  <ul class="mt-4 space-y-2 list-disc list-inside">
+    <li>Affordable Pricing</li>
+    <li>Result-Oriented Strategy</li>
+    <li>Expert Guidance</li>
+    <li>Fast Delivery</li>
+  </ul>
+
+  <!-- CTA -->
+  <a href="contact.html" class="mt-10 inline-block bg-green-600 px-6 py-3 rounded-full">
+    Work With Us
+  </a>
+
+</section>
+
+</body>
+</html>
